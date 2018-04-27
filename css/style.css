@@ -1,0 +1,27 @@
+  body {
+    background-color: #00f9f2
+  }
+  h1 {
+    font-size: 50pt;
+    font-family: serif;
+    text-align: center;
+    color: #008ff0
+}
+  h3 {
+
+    text-align: left;
+    font-size: 25pt;
+    font-family: fantasy;
+}
+  p  {
+    text-align: center;
+    font-size: 16pt;
+    font-family: sans-serif;
+}
+.image {
+    width: 100px;
+    height: 200px;
+    padding-left: 1000px;
+
+
+}
